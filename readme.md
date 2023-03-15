@@ -1,1 +1,1 @@
-Hello, test from XierLabber
+Hello, test
